@@ -1,15 +1,5 @@
-<script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
-<script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
 
-# Number Of Primes And Twin Primes
-
-I was 21 years old when I proved it and wrote it down! Basically, it's a shortcut if you like to determine the number of prime numbers or twin primes.
-
-(I can prove this)
-
-----------------------------------------------------------------------------------------------------------------------
-© My method :D
-
+```math
 $   P_s(n) = \prod_{k=1}^n \max(p_k-s,1) $
 \begin{align}
 \begin{split}
@@ -37,3 +27,12 @@ $   P_s(n) = \prod_{k=1}^n \max(p_k-s,1) $
     \begin{equation}\label{eq:numberoftwinprimenumberforreal}
     \pi_2(p_n\#) =  P_2(n) - \lvert \Pi_2(n) \rvert + \pi_2(p_n)
 \end{equation}
+```
+# Number Of Primes And Twin Primes
+
+I was 21 years old when I proved it and wrote it down! Basically, it's a shortcut if you like to determine the number of prime numbers or twin primes.
+
+(I can prove this)
+
+----------------------------------------------------------------------------------------------------------------------
+© My method :D
