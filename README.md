@@ -1,4 +1,4 @@
-$$    P_s(n) = \prod_{k=1}^n \max(p_k-s,1) $$
+$   P_s(n) = \prod_{k=1}^n \max(p_k-s,1) $
 \begin{align}
 \begin{split}
     \Pi(n) = \{ N :  & p_n < N < P_0(n) \land \\
@@ -21,7 +21,6 @@ $$    P_s(n) = \prod_{k=1}^n \max(p_k-s,1) $$
         & \forall p \bigl( p \in \mathbb{P} \land p \le p_n
         \land p \nmid N \land p \nmid N + 2 \bigr)\\
         \}
-        % p_list = [N for N in range(100000) if formula(N)]
     \end{split}
     \begin{equation}\label{eq:numberoftwinprimenumberforreal}
     \pi_2(p_n\#) =  P_2(n) - \lvert \Pi_2(n) \rvert + \pi_2(p_n)
