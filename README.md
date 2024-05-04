@@ -1,6 +1,5 @@
-
-```math
-$   P_s(n) = \prod_{k=1}^n \max(p_k-s,1) $
+- <img src="https://latex.codecogs.com/gif.latex? 
+      $   P_s(n) = \prod_{k=1}^n \max(p_k-s,1) $
 \begin{align}
 \begin{split}
     \Pi(n) = \{ N :  & p_n < N < P_0(n) \land \\
@@ -26,8 +25,10 @@ $   P_s(n) = \prod_{k=1}^n \max(p_k-s,1) $
     \end{split}
     \begin{equation}\label{eq:numberoftwinprimenumberforreal}
     \pi_2(p_n\#) =  P_2(n) - \lvert \Pi_2(n) \rvert + \pi_2(p_n)
-\end{equation}
-```
+\end{equation} " /> 
+
+
+
 # Number Of Primes And Twin Primes
 
 I was 21 years old when I proved it and wrote it down! Basically, it's a shortcut if you like to determine the number of prime numbers or twin primes.
