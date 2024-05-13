@@ -1,9 +1,7 @@
 
 # Number Of Primes And Twin Primes
 
-I was 21 years old when I proved it and wrote it down! Basically, it's a shortcut if you like to determine the number of prime numbers or twin primes.
-
-(I can prove this)
+I can prove this formulas! Basically, it's a shortcut if you like to determine the number of prime numbers or twin primes.
 
 ----------------------------------------------------------------------------------------------------------------------
 © My method :D
