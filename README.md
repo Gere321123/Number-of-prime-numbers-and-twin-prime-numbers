@@ -23,5 +23,10 @@ The SageMath code provided is designed to test and demonstrate the formula's acc
 
 ---
 
+![image](https://github.com/user-attachments/assets/41904440-b9dc-4597-adcf-dbc67583897b)
+
+
+---
+
 © My Method :D  
 
